@@ -6,7 +6,7 @@
 
 <h2>:page_facing_up: Certifications</h2>
 
-- CompTIA Security+
+- [CompTIA Security+](https://www.credly.com/badges/802a744e-64c2-4899-8795-60a474747d6f)
 
 <h2>📺 YouTube Videos</h2>
 
