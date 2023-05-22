@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Basic Home Lab Running Active Directory](https://github.com/emann615/ActiveDirectoryLab)
-- [Nessus Essentials Lab](https://github.com/emann615/ActiveDirectoryLab)
+- [Nessus Essentials Lab: Vulnerability Management](https://github.com/emann615/ActiveDirectoryLab)
 
 <h2>:page_facing_up: Certifications</h2>
 
