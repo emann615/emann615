@@ -7,7 +7,7 @@
 
 <h2>:page_facing_up: Certifications</h2>
 
-- [CompTIA Security+](https://www.credly.com/badges/802a744e-64c2-4899-8795-60a474747d6f)
+- [CompTIA Security+](https://www.credly.com/earner/earned/badge/71ea5b42-6317-448a-b486-7b1613a0c5be)
 
 <h2>📺 YouTube Videos</h2>
 
