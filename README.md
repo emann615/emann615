@@ -1,6 +1,6 @@
 <h1>Hi, I'm Evan!</h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Basic Home Lab Running Active Directory](https://github.com/emann615/ActiveDirectoryLab)
 - [Nessus Essentials Lab: Vulnerability Management](https://github.com/emann615/NessusEssentialsLab)
@@ -19,7 +19,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/@EvMann
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/evancmann/
 
 <!--
 **emann615/emann615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
