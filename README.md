@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Basic Home Lab Running Active Directory](https://github.com/emann615/ActiveDirectoryLab)
+- [Microsoft Sentinel (SIEM) Lab](https://github.com/emann615/MicrosoftSentinelLab)
 - [Nessus Essentials Lab: Vulnerability Management](https://github.com/emann615/NessusEssentialsLab)
-
+- [Basic Home Lab Running Active Directory](https://github.com/emann615/ActiveDirectoryLab)
+ 
 <h2>:page_facing_up: Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/71ea5b42-6317-448a-b486-7b1613a0c5be/public_url)
