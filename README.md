@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [LetsDefend Alert Walk-throughs](https://github.com/emann615/LetsDefendAlerts)
 - [Microsoft Sentinel (SIEM) Lab](https://github.com/emann615/MicrosoftSentinelLab)
 - [Nessus Essentials Lab: Vulnerability Management](https://github.com/emann615/NessusEssentialsLab)
 - [Basic Home Lab Running Active Directory](https://github.com/emann615/ActiveDirectoryLab)
