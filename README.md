@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Snort Challenge - Live Attacks](https://github.com/emann615/Snort-Challenge-Live-Attacks)
 - [LetsDefend Alert Walk-Throughs](https://github.com/emann615/LetsDefendAlerts)
 - [Microsoft Sentinel (SIEM) Lab](https://github.com/emann615/MicrosoftSentinelLab)
 - [Nessus Essentials Lab: Vulnerability Management](https://github.com/emann615/NessusEssentialsLab)
