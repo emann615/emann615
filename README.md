@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Splunk Challenge - Benign](https://github.com/emann615/Splunk-Challenge-Benign/blob/main/README.md)
 - [Investigating with Splunk](https://github.com/emann615/Investigating-with-Splunk)
 - [Snort Challenge - Live Attacks](https://github.com/emann615/Snort-Challenge-Live-Attacks)
 - [LetsDefend Alert Walk-Throughs](https://github.com/emann615/LetsDefendAlerts)
