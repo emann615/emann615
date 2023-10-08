@@ -4,7 +4,7 @@
 
 - [Splunk Challenge: Analyzing Windows Event Logs](https://github.com/emann615/Splunk-Challenge-Analyzing-Windows-Event-Logs)
 - [Investigating with Splunk](https://github.com/emann615/Investigating-with-Splunk)
-- [Wireshark Challenge - Network Traffic Anlysis](https://github.com/emann615/Wireshark-Challenge-Network-Traffic-Anlysis)
+- [Wireshark Challenge: Network Traffic Anlysis](https://github.com/emann615/Wireshark-Challenge-Network-Traffic-Anlysis)
 - [Snort Challenge: Live Attacks](https://github.com/emann615/Snort-Challenge-Live-Attacks)
 - [LetsDefend Alert Walk-Throughs](https://github.com/emann615/LetsDefendAlerts)
 - [Microsoft Sentinel (SIEM) Lab](https://github.com/emann615/MicrosoftSentinelLab)
