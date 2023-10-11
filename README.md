@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Splunk Challenge: Analyzing Windows Event Logs](https://github.com/emann615/Splunk-Challenge-Analyzing-Windows-Event-Logs)
+- [Splunk Labs](https://github.com/emann615/Splunk-Labs)
 - [Investigating with Splunk](https://github.com/emann615/Investigating-with-Splunk)
 - [Wireshark Challenge: Network Traffic Analysis](https://github.com/emann615/Wireshark-Challenge-Network-Traffic-Analysis)
 - [Snort Challenge: Live Attacks](https://github.com/emann615/Snort-Challenge-Live-Attacks)
