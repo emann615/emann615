@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Splunk Labs: Investigating Cyber Attacks](https://github.com/emann615/Splunk-Labs-Investigating-Cyber-Attacks)
+- [Home SOC Lab](https://github.com/emann615/Home-SOC-Lab/)
 - [Wireshark Challenge: Network Traffic Analysis](https://github.com/emann615/Wireshark-Challenge-Network-Traffic-Analysis)
 - [Snort Challenge: Live Attacks](https://github.com/emann615/Snort-Challenge-Live-Attacks)
 - [LetsDefend Alert Walk-Throughs](https://github.com/emann615/LetsDefendAlerts)
