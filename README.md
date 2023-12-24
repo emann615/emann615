@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [SOC Labs](https://github.com/emann615/Home-SOC-Lab/)
-- [Network Traffic Analysis Labs](https://github.com/emann615/Network-Traffic-Analysis-Labs/blob/main/README.md)
+- [SOC Labs](https://github.com/emann615/SOC-Labs)
+- [Network Traffic Analysis Labs](https://github.com/emann615/Network-Traffic-Analysis-Labs)
 - [Nessus Essentials Lab: Vulnerability Management](https://github.com/emann615/NessusEssentialsLab)
 - [Basic Home Lab Running Active Directory](https://github.com/emann615/ActiveDirectoryLab)
  
