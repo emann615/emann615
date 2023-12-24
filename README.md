@@ -2,12 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Splunk Labs: Investigating Cyber Attacks](https://github.com/emann615/Splunk-Labs-Investigating-Cyber-Attacks)
-- [Home SOC Lab](https://github.com/emann615/Home-SOC-Lab/)
-- [Wireshark Challenge: Network Traffic Analysis](https://github.com/emann615/Wireshark-Challenge-Network-Traffic-Analysis)
-- [Snort Challenge: Live Attacks](https://github.com/emann615/Snort-Challenge-Live-Attacks)
-- [LetsDefend Alert Walk-Throughs](https://github.com/emann615/LetsDefendAlerts)
-- [Microsoft Sentinel (SIEM) Lab](https://github.com/emann615/MicrosoftSentinelLab)
+- [SOC Labs](https://github.com/emann615/Home-SOC-Lab/)
+- [Network Traffic Analysis Labs](https://github.com/emann615/Network-Traffic-Analysis-Labs/blob/main/README.md)
 - [Nessus Essentials Lab: Vulnerability Management](https://github.com/emann615/NessusEssentialsLab)
 - [Basic Home Lab Running Active Directory](https://github.com/emann615/ActiveDirectoryLab)
  
