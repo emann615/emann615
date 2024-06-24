@@ -1,11 +1,13 @@
 <h1>Hi, I'm Evan!</h1>
 
+<h2>👨‍💻 General IT Projects:</h2>
+- [Basic Home Lab Running Active Directory](https://github.com/emann615/ActiveDirectoryLab)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [SOC Labs](https://github.com/emann615/SOC-Labs)
 - [Network Traffic Analysis Labs](https://github.com/emann615/Network-Traffic-Analysis-Labs)
 - [Nessus Essentials Lab: Vulnerability Management](https://github.com/emann615/NessusEssentialsLab)
-- [Basic Home Lab Running Active Directory](https://github.com/emann615/ActiveDirectoryLab)
  
 <h2>:page_facing_up: Certifications</h2>
 
