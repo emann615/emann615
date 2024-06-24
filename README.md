@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-- [Basic Home Lab Running Active Directory - VirtualBox](https://github.com/emann615/ActiveDirectoryLab)
+- [Active Directory Home Lab - VirtualBox](https://github.com/emann615/ActiveDirectoryLab)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
