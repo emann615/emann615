@@ -10,6 +10,7 @@
 <h2>:page_facing_up: Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/71ea5b42-6317-448a-b486-7b1613a0c5be/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/37421680-2e1e-4e7f-bef7-45c5d276be35/public_url)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JCSPC22W8WKR)
 
 <h2>📺 YouTube Videos</h2>
