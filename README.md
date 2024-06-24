@@ -1,6 +1,7 @@
 <h1>Hi, I'm Evan!</h1>
 
 <h2>👨‍💻 General IT Projects:</h2>
+
 - [Basic Home Lab Running Active Directory](https://github.com/emann615/ActiveDirectoryLab)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
